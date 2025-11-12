@@ -3,6 +3,9 @@
 ## Introduction
 The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using ESPHome. 5 individual relays with a maximum switching current of 16 A at max 250 VAC / 30 VDC. Using the powerful ESP32-C6 as processor.
 
+<img width="200" height="200" alt="RS5 3D Black-T" src="https://github.com/user-attachments/assets/089008c8-97aa-40c3-a091-e8da973dbac9" />
+
+
 ## Pinout
 #### ESP32-C6 GPIO pinout
 | GPIO pin | Description             |
