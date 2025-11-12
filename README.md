@@ -17,12 +17,12 @@ The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using 
 | GPIO04   | Output 4                |
 | GPIO05   | Output 5                |
 | GPIO08   | Green LED / BOOT        |
-| GPIO11   | Power source detection  |
+| GPIO14   | Power source detection  |
 
 ## Electrical schematic
 | Number | Label | Description                                       |
 | :---   | :---  | :---                                              |
-| 1      | L/+   | Power source output. Max 250 VAC / 30 VDC 16 A.   |
+| 1      | L/+   | Power source outputs. Max 250 VAC / 30 VDC 16 A.  |
 | 2      | N/-   | Null 230 VAC / 0 VDC (GND).                       |
 | 3      | O1    | Switched output. Max 250 VAC / 30 VDC 16 A.       |
 | 4      | N/-   | Null 230 VAC / 0 VDC (GND).                       |
@@ -34,7 +34,7 @@ The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using 
 | 10     | N/-   | Null 230 VAC / 0 VDC (GND).                       |
 | 11     | O5    | Switched output. Max 250 VAC / 30 VDC 16 A.       |
 | 12     | N/-   | Null 230 VAC / 0 VDC (GND).                       |
-| 13     | L     | Fase 230 VAC.                                     |
+| 13     | L     | Phase 230 VAC.                                    |
 | 14     | N     | Null 230 VAC.                                     |
 | 22     | B     | BOOT.                                             |
 | 23-24  | USB   | USB-C connector. Max 5 VDC with a current of 1 A. |
