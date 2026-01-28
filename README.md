@@ -42,6 +42,12 @@ The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using 
 
 <img width="600" height="620" alt="RS5" src="https://github.com/user-attachments/assets/dfc83b90-66c8-45a4-b20c-8a4657ff1379" />
 
+## Use the Gavako ESPHome Installer
+### [Gevako ESPHome Installer](https://gevako.nl/esphome/)
+
+### Or use the official online ESPHome Installer
+##### [ESPHome Installer](https://web.esphome.io/)
+
 ## Electial wiring example
 <img width="600" height="669" alt="RS5 example_2 0 1" src="https://github.com/user-attachments/assets/32f1bde4-7b66-4c79-9f3c-d3e49ca0739c" />
 
