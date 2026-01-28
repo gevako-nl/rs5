@@ -16,7 +16,8 @@ The Gevako RS5 is a 5-channel Smart Switch suitable for Home Assistant by using 
 | GPIO03   | Output 3                |
 | GPIO04   | Output 4                |
 | GPIO05   | Output 5                |
-| GPIO08   | Green LED / BOOT        |
+| GPIO08   | Green LED               |
+| GPIO09   | BOOT                    |
 | GPIO14   | Power source detection  |
 
 ## Electrical schematic
