@@ -48,7 +48,7 @@ It features five relays with a common power source input, capable of handling de
 | 12       | N/-   | Null 230 VAC / 0 VDC (GND).                       |
 | 13       | L     | Board Power: Phase 230 VAC.                       |
 | 14       | N     | Board Power: Null 230 VAC.                        |
-| 22       | B     | BOOT terminal.                                    |
+| 22       | B     | BOOT / Reboot (2 s) / Factory reset (10 s)        |
 | 23-24    | USB   | USB-C connector. Max 5 VDC (1 A) for provisioning.|
 
 <img alt="Gevako RS5 PCB Layout and Schematic" width="600" src="https://github.com/user-attachments/assets/dfc83b90-66c8-45a4-b20c-8a4657ff1379" />
