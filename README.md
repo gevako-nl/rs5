@@ -9,7 +9,8 @@ It features five relays with a common power source input, capable of handling de
 <img alt="gevako-rs5-smart-relay-3d-front-left-thread-wifi" src="https://github.com/user-attachments/assets/703d3c49-ddfa-4aa3-8898-c16afbebe669" width="200"/>
 </a>
 
-🔗 **Hardware Details & Store:** * [Gevako RS5 - Thread Edition](https://www.gevako.com/shop/gevako-rs5-thread-smart-relay-home-assistant/)
+🔗 **Hardware Details & Store:**
+* [Gevako RS5 - Thread Edition](https://www.gevako.com/shop/gevako-rs5-thread-smart-relay-home-assistant/)
 * [Gevako RS5 - WiFi Edition](https://www.gevako.com/shop/gevako-rs5-wifi-smart-relay-home-assistant/)
 
 ---
@@ -62,6 +63,6 @@ It features five relays with a common power source input, capable of handling de
 ### Provisioning (WiFi & Thread)
 The RS5 is fully compatible with ESPHome and can be provisioned using standard WiFi or integrated directly into a **Thread** network using USB TLV code provisioning.
 
-1. **Thread Provisioning Tool:** [gevako.com/thread](https://www.gevako.com/thread/)
-2. **WiFi / Thread ESPHome Installer:** [gevako.com/esphome](https://www.gevako.com/esphome/)
+1. **WiFi / Thread ESPHome Installer:** [gevako.com/esphome](https://www.gevako.com/esphome/)
+2. **Thread Provisioning Tool:** [gevako.com/thread](https://www.gevako.com/thread/)
 3. **Official ESPHome Web:** [web.esphome.io](https://web.esphome.io/)
